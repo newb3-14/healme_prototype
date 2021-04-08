@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "484624734039",
+    "project_id": "healme-prototype",
+    "storage_bucket": "healme-prototype.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484624734039:android:41ae67b894f722e5071012",
+        "android_client_info": {
+          "package_name": "com.anahata.prototype"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484624734039-93pudp4481395jhbpdammcn3870pnbvg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1onMgWw33gFq-VCTC59SYvzdAmqbO6Y8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484624734039-93pudp4481395jhbpdammcn3870pnbvg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
